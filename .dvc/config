@@ -1,0 +1,6 @@
+[core]
+    remote = localremote
+['remote "s3remote"']
+    url = s3://project3nicolas/remote/
+['remote "localremote"']
+    url = /local_remote_dir
