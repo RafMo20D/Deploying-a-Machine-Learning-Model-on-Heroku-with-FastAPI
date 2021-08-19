@@ -31,8 +31,9 @@ jobs:
 #         aws-region: us-east-1
     - name: Setup DVC Action
       uses: iterative/setup-dvc@v1
-    - name: Pull data from DVC
-      run: dvc pull data -R
+    - name: Pull from DVC
+      run: |
+          dvc pull
     - name: Lint with flake8
       run: |
         # stop the build if there are Python syntax errors or undefined names
