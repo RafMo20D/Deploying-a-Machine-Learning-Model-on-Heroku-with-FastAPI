@@ -13,7 +13,7 @@ The original data set has 32561 rows, and a 80-20 split was used to break this i
 ## Evaluation Data
 The evaluation data set followed the same colums from the training data and was a 80-20 split was used to break this into a train and test set.
 ## Metrics
-The model was evaluated using precision, recall and F-Beta score. 
+The model was evaluated using precision, recall and F-Beta score. The performance obtained was 0.699, 0.563, 0.624 for precision, recall and F-Beta score repectivally.
 
 ## Ethical Considerations
 All the rights from the dataset is reserved to UCI and should be refenced.

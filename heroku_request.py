@@ -15,7 +15,7 @@ data = {
     }
 
 response = requests.post(
-    url='https://vin-project3-app.herokuapp.com/inference',
+    url='https://census-prediction-app.herokuapp.com/inference',
     json=data
 )
 
