@@ -1,0 +1,190 @@
+Category:workclass Item:Private
+Precision:0.7313432835820896 Recall:0.5357852882703777 FBeta:0.6184738955823295
+Category:workclass Item:Local-gov
+Precision:0.6701030927835051 Recall:0.5462184873949579 FBeta:0.6018518518518517
+Category:workclass Item:State-gov
+Precision:0.65 Recall:0.6190476190476191 FBeta:0.6341463414634146
+Category:workclass Item:Self-emp-not-inc
+Precision:0.6185567010309279 Recall:0.410958904109589 FBeta:0.49382716049382713
+Category:workclass Item:Self-emp-inc
+Precision:0.7291666666666666 Recall:0.875 FBeta:0.7954545454545454
+Category:workclass Item:Federal-gov
+Precision:0.6901408450704225 Recall:0.6447368421052632 FBeta:0.6666666666666666
+Category:workclass Item:Without-pay
+Precision:1.0 Recall:1.0 FBeta:1.0
+Category:education Item:Prof-school
+Precision:0.8470588235294118 Recall:0.9 FBeta:0.8727272727272727
+Category:education Item:HS-grad
+Precision:0.5688073394495413 Recall:0.1884498480243161 FBeta:0.2831050228310502
+Category:education Item:Bachelors
+Precision:0.7427385892116183 Recall:0.8099547511312217 FBeta:0.7748917748917749
+Category:education Item:Some-college
+Precision:0.5698324022346368 Recall:0.3709090909090909 FBeta:0.44933920704845814
+Category:education Item:7th-8th
+Precision:0.0 Recall:0.0 FBeta:0.0
+Category:education Item:Masters
+Precision:0.8195121951219512 Recall:0.84 FBeta:0.8296296296296296
+Category:education Item:11th
+Precision:1.0 Recall:0.09090909090909091 FBeta:0.16666666666666669
+Category:education Item:Assoc-acdm
+Precision:0.525 Recall:0.4883720930232558 FBeta:0.5060240963855422
+Category:education Item:Assoc-voc
+Precision:0.6458333333333334 Recall:0.484375 FBeta:0.5535714285714286
+Category:education Item:5th-6th
+Precision:1.0 Recall:0.0 FBeta:0.0
+Category:education Item:10th
+Precision:1.0 Recall:0.0 FBeta:0.0
+Category:education Item:12th
+Precision:0.0 Recall:0.0 FBeta:0.0
+Category:education Item:Doctorate
+Precision:0.7636363636363637 Recall:0.7636363636363637 FBeta:0.7636363636363637
+Category:education Item:1st-4th
+Precision:1.0 Recall:0.0 FBeta:0.0
+Category:education Item:9th
+Precision:1.0 Recall:0.0 FBeta:0.0
+Category:education Item:Preschool
+Precision:1.0 Recall:1.0 FBeta:1.0
+Category:marital-status Item:Never-married
+Precision:0.16666666666666666 Recall:0.00980392156862745 FBeta:0.018518518518518517
+Category:marital-status Item:Married-civ-spouse
+Precision:0.7135549872122762 Recall:0.6503496503496503 FBeta:0.6804878048780487
+Category:marital-status Item:Married-spouse-absent
+Precision:0.6666666666666666 Recall:0.2222222222222222 FBeta:0.3333333333333333
+Category:marital-status Item:Separated
+Precision:1.0 Recall:0.2 FBeta:0.33333333333333337
+Category:marital-status Item:Divorced
+Precision:0.625 Recall:0.10309278350515463 FBeta:0.17699115044247787
+Category:marital-status Item:Widowed
+Precision:0.75 Recall:0.16666666666666666 FBeta:0.27272727272727276
+Category:marital-status Item:Married-AF-spouse
+Precision:1.0 Recall:0.5 FBeta:0.6666666666666666
+Category:occupation Item:Prof-specialty
+Precision:0.743455497382199 Recall:0.7802197802197802 FBeta:0.7613941018766757
+Category:occupation Item:Craft-repair
+Precision:0.5555555555555556 Recall:0.14619883040935672 FBeta:0.23148148148148148
+Category:occupation Item:Other-service
+Precision:0.0 Recall:0.0 FBeta:0.0
+Category:occupation Item:Transport-moving
+Precision:0.5625 Recall:0.1323529411764706 FBeta:0.2142857142857143
+Category:occupation Item:Adm-clerical
+Precision:0.6078431372549019 Recall:0.30392156862745096 FBeta:0.4052287581699346
+Category:occupation Item:Exec-managerial
+Precision:0.7582417582417582 Recall:0.8175355450236966 FBeta:0.7867730900798174
+Category:occupation Item:Sales
+Precision:0.6646706586826348 Recall:0.5904255319148937 FBeta:0.6253521126760564
+Category:occupation Item:Machine-op-inspct
+Precision:0.2 Recall:0.018867924528301886 FBeta:0.034482758620689655
+Category:occupation Item:Farming-fishing
+Precision:0.4 Recall:0.07142857142857142 FBeta:0.12121212121212122
+Category:occupation Item:Handlers-cleaners
+Precision:1.0 Recall:0.0625 FBeta:0.11764705882352941
+Category:occupation Item:Protective-serv
+Precision:0.6296296296296297 Recall:0.40476190476190477 FBeta:0.4927536231884058
+Category:occupation Item:Tech-support
+Precision:0.6078431372549019 Recall:0.5740740740740741 FBeta:0.5904761904761905
+Category:occupation Item:Priv-house-serv
+Precision:1.0 Recall:0.0 FBeta:0.0
+Category:relationship Item:Not-in-family
+Precision:0.5714285714285714 Recall:0.08839779005524862 FBeta:0.15311004784688995
+Category:relationship Item:Husband
+Precision:0.72 Recall:0.6434176111595467 FBeta:0.6795580110497238
+Category:relationship Item:Unmarried
+Precision:1.0 Recall:0.06382978723404255 FBeta:0.12
+Category:relationship Item:Own-child
+Precision:1.0 Recall:0.0 FBeta:0.0
+Category:relationship Item:Wife
+Precision:0.6802721088435374 Recall:0.7299270072992701 FBeta:0.7042253521126761
+Category:relationship Item:Other-relative
+Precision:0.0 Recall:0.0 FBeta:0.0
+Category:race Item:White
+Precision:0.7137713771377138 Recall:0.5700934579439252 FBeta:0.6338928856914469
+Category:race Item:Asian-Pac-Islander
+Precision:0.7142857142857143 Recall:0.6862745098039216 FBeta:0.7000000000000001
+Category:race Item:Black
+Precision:0.6756756756756757 Recall:0.32894736842105265 FBeta:0.4424778761061947
+Category:race Item:Amer-Indian-Eskimo
+Precision:0.3333333333333333 Recall:0.3333333333333333 FBeta:0.3333333333333333
+Category:race Item:Other
+Precision:0.6666666666666666 Recall:0.3333333333333333 FBeta:0.4444444444444444
+Category:sex Item:Male
+Precision:0.7168560606060606 Recall:0.5787461773700305 FBeta:0.6404399323181049
+Category:sex Item:Female
+Precision:0.6666666666666666 Recall:0.45045045045045046 FBeta:0.5376344086021506
+Category:native-country Item:United-States
+Precision:0.7083333333333334 Recall:0.5587412587412588 FBeta:0.6247068021892104
+Category:native-country Item:Taiwan
+Precision:0.8 Recall:0.8 FBeta:0.8000000000000002
+Category:native-country Item:Germany
+Precision:1.0 Recall:0.4444444444444444 FBeta:0.6153846153846153
+Category:native-country Item:Mexico
+Precision:0.5 Recall:0.16666666666666666 FBeta:0.25
+Category:native-country Item:Cuba
+Precision:1.0 Recall:0.6666666666666666 FBeta:0.8
+Category:native-country Item:Iran
+Precision:1.0 Recall:0.6666666666666666 FBeta:0.8
+Category:native-country Item:El-Salvador
+Precision:1.0 Recall:1.0 FBeta:1.0
+Category:native-country Item:Nicaragua
+Precision:1.0 Recall:0.0 FBeta:0.0
+Category:native-country Item:Peru
+Precision:1.0 Recall:0.0 FBeta:0.0
+Category:native-country Item:Puerto-Rico
+Precision:1.0 Recall:0.6666666666666666 FBeta:0.8
+Category:native-country Item:Canada
+Precision:0.0 Recall:0.0 FBeta:0.0
+Category:native-country Item:Guatemala
+Precision:1.0 Recall:0.0 FBeta:0.0
+Category:native-country Item:Japan
+Precision:0.6666666666666666 Recall:0.8 FBeta:0.7272727272727272
+Category:native-country Item:India
+Precision:0.8181818181818182 Recall:0.9 FBeta:0.8571428571428572
+Category:native-country Item:Columbia
+Precision:0.3333333333333333 Recall:1.0 FBeta:0.5
+Category:native-country Item:Portugal
+Precision:1.0 Recall:0.0 FBeta:0.0
+Category:native-country Item:Jamaica
+Precision:1.0 Recall:0.25 FBeta:0.4
+Category:native-country Item:South
+Precision:0.3333333333333333 Recall:0.5 FBeta:0.4
+Category:native-country Item:Ireland
+Precision:1.0 Recall:1.0 FBeta:1.0
+Category:native-country Item:China
+Precision:0.25 Recall:1.0 FBeta:0.4
+Category:native-country Item:Dominican-Republic
+Precision:1.0 Recall:1.0 FBeta:1.0
+Category:native-country Item:France
+Precision:0.75 Recall:1.0 FBeta:0.8571428571428571
+Category:native-country Item:Philippines
+Precision:0.8888888888888888 Recall:0.7272727272727273 FBeta:0.7999999999999999
+Category:native-country Item:Vietnam
+Precision:1.0 Recall:0.0 FBeta:0.0
+Category:native-country Item:Greece
+Precision:0.5 Recall:1.0 FBeta:0.6666666666666666
+Category:native-country Item:Italy
+Precision:1.0 Recall:0.7142857142857143 FBeta:0.8333333333333333
+Category:native-country Item:Yugoslavia
+Precision:0.0 Recall:1.0 FBeta:0.0
+Category:native-country Item:Poland
+Precision:0.5 Recall:0.3333333333333333 FBeta:0.4
+Category:native-country Item:Haiti
+Precision:1.0 Recall:1.0 FBeta:1.0
+Category:native-country Item:England
+Precision:0.75 Recall:0.6 FBeta:0.6666666666666665
+Category:native-country Item:Hong
+Precision:1.0 Recall:1.0 FBeta:1.0
+Category:native-country Item:Honduras
+Precision:1.0 Recall:1.0 FBeta:1.0
+Category:native-country Item:Cambodia
+Precision:1.0 Recall:0.3333333333333333 FBeta:0.5
+Category:native-country Item:Outlying-US(Guam-USVI-etc)
+Precision:1.0 Recall:1.0 FBeta:1.0
+Category:native-country Item:Laos
+Precision:1.0 Recall:1.0 FBeta:1.0
+Category:native-country Item:Hungary
+Precision:1.0 Recall:1.0 FBeta:1.0
+Category:native-country Item:Ecuador
+Precision:1.0 Recall:1.0 FBeta:1.0
+Category:native-country Item:Trinadad&Tobago
+Precision:1.0 Recall:1.0 FBeta:1.0
+Category:native-country Item:Scotland
+Precision:1.0 Recall:1.0 FBeta:1.0
