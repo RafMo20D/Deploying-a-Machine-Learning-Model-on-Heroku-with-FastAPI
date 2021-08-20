@@ -1,4 +1,4 @@
-python
+python==3.8.10
 numpy
 pandas
 scikit-learn
@@ -8,4 +8,3 @@ fastapi==0.65.2
 uvicorn
 gunicorn
 joblib
-flake8
