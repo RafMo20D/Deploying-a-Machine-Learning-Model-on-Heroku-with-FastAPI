@@ -30,5 +30,4 @@ if __name__ == '__main__':
             
     predicted = trained_model.predict(X_test)
 
-    precision, recall, fbeta = starter.helper_function.compute_model_metrics(y_test, predicted)
-    print(precision, recall, fbeta )
+    precision, recall, fbeta = starter.helper_function.compute_model_metrics(y_test, predicted) 
