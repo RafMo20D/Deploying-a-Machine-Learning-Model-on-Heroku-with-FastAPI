@@ -1,10 +1,10 @@
-python==3.8.10
+python==3.7.9
 numpy
 pandas
 scikit-learn
 pytest
 requests
-fastapi==0.65.2
+fastapi
 uvicorn
 gunicorn
 joblib
