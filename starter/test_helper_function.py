@@ -1,5 +1,5 @@
 '''
-Testing & Logging for churn_library.py script
+Testing for helper_function.py script
 
 Author: Nícolas
 Date: August 16, 2021
@@ -16,7 +16,7 @@ def data():
     """
     Get the cleaned dataset
     """
-    df = starter.helper_function.import_data("../data/census_cleaned.csv")
+    df = starter.helper_function.import_data("data/census_cleaned.csv")
     return df
 
 def test_import_data(data):
