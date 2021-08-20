@@ -1,0 +1,5 @@
+outs:
+- md5: 18fae289799e4521aaaf548f3fed7533
+  size: 404
+  path: lb.joblib
+  isexec: true
